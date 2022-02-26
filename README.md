@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-## Oiii eu sou o Fernando Santana, venho buscando conhecimento analise de dados!
+## Oiii eu sou o Fernando Santana, venho buscando conhecimento em analise de dados!
 <div align="center">
   <a href="https://github.com/fdsantos94">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fdsantos94&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
