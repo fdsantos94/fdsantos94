@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Fernando (@fdsantos94)
 - 👀 I’m interested in Python, Sql, Vba e Power BI
 - 🌱 I’m currently learning Python para analise de dados e Power BI para analise de negocios
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me veja os links disponibilizados abaixo
 ## Oiii eu sou o Fernando Santana, venho buscando conhecimento em analise de dados!
 <div align="center">
