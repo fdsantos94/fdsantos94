@@ -15,6 +15,7 @@
   <img align="center" title="MySQL" alt="Fernando-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" title="Postgresql" alt="Fernando-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" title="SQL Server" alt="Fernando-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" title="VBA" alt="Fernando-Python" height="60" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vba_icon_130097.png">  
   
 </div>
   
