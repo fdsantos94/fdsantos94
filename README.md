@@ -1,4 +1,3 @@
-esse é o meu README, agora vamos iniciar as melhorias, pode manda ver nas sugestões e o pq
 - 👋 Olá, me chamo Fernando (@fdsantos94).
 - 👀 Tenho interesse em Python, Sql, Vba e Power BI.
 - 🌱 Eu venho estudando Python para analise de dados e Power BI para analise de negocios.
