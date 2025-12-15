@@ -1,9 +1,14 @@
-<div align="center">
-    # Fernando Santana | Data Analyst & BI Developer
-    ### Transformando Dados Brutos em Insights Acionáveis com SQL e Python.
-</div>
+# 📊 Fernando Santana | Data Analyst & BI Developer
+
+Bem-vindo(a) ao meu espaço no GitHub! Sou um profissional em transição da Administração para o universo de Dados e Business Intelligence.
+
+Meu principal objetivo é aplicar a visão de negócio na construção de soluções técnicas sólidas. O foco está na sinergia entre **SQL** (para extração e manipulação limpa) e **Python** (para automação e análise).
 
 ---
+
+## 🚀 Estatísticas do meu Desenvolvimento
+
+Esta seção mostra minha atividade e as linguagens predominantes nos meus repositórios.
 
 <div align="center">
     <a href="https://github.com/fdsantos94">
@@ -12,11 +17,13 @@
     </a>
 </div>
 
-<br>
+---
+
+## 🛠️ Tecnologias e Ferramentas (Hard Skills)
+
+Abaixo estão as ferramentas que utilizo, com o compromisso de aplicar sempre as boas práticas de mercado (e.g., **SQL em minúsculo**, aliases padronizados, Python PEP8).
 
 <div align="center">
-    ## 🛠️ Skills e Ferramentas
-    
     <img align="center" title="Python" alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" title="Postgresql" alt="Postgresql" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
     <img align="center" title="MySQL" alt="MySQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
@@ -27,13 +34,25 @@
 
 ---
 
+## 📂 Organização dos Repositórios
+
+Para facilitar a navegação e diferenciar o que é "Produto" do que é "Estudo", meus repositórios seguem uma estrutura clara:
+
+| Categoria | Nomenclatura | Foco Principal | Exemplo |
+| :--- | :--- | :--- | :--- |
+| **Projetos** | `[assunto]-[tecnologia]` | Solução completa para um problema de negócio. | `controle-condominio-python` |
+| **Estudos** | `estudos-[tecnologia]` | Agrupamento de exercícios, scripts soltos e fixação de sintaxe. | `estudos-python` |
+| **Pessoal/Privado** | Nomenclatura própria. | Arquivos pessoais ou projetos em fase de rascunho. | `financas-pessoais` |
+
+---
+
+## 📬 Conecte-se Comigo
+
+Em caso de dúvidas sobre as soluções ou sugestões, sinta-se à vontade para me contatar.
+
 <div align="center">
-    ## 📬 Conecte-se Comigo
-    
     <a href="https://www.linkedin.com/in/fdsantos94" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
     <a href = "mailto:fdsantos94@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-    
     <a href="https://instagram.com/fdsantos94/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     
     <br><br>
