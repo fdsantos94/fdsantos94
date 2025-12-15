@@ -1,8 +1,17 @@
 # 📊 Fernando Santana | Data Analyst & BI Developer
 
-Bem-vindo(a) ao meu espaço no GitHub! Sou um profissional em transição da Administração para o universo de Dados e Business Intelligence.
+Bem-vindo(a) ao meu espaço no GitHub! Sou **Analista de Dados**, com foco forte em qualidade de dados, boas práticas, organização e clareza de código. Acredito que dados só geram valor quando são confiáveis, rastreáveis e bem documentados.
 
-Meu principal objetivo é aplicar a visão de negócio na construção de soluções técnicas sólidas. O foco está na sinergia entre **SQL** (para extração e manipulação limpa) e **Python** (para automação e análise).
+---
+
+## 🎯 Objetivo
+
+Construir soluções de dados simples, bem estruturadas e sustentáveis, facilitando:
+
+* Manutenção
+* Auditoria
+* Escalabilidade
+* Vida do *eu do futuro* (e do colega que herdar a query às 18h de sexta)
 
 ---
 
