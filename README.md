@@ -11,10 +11,13 @@ Meu principal objetivo é aplicar a visão de negócio na construção de soluç
 Esta seção mostra minha atividade e as linguagens predominantes nos meus repositórios.
 
 <div align="center">
-    <a href="https://github.com/fdsantos94">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fdsantos94&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt_BR&cache_bust=20251215"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdsantos94&layout=compact&langs_count=7&theme=tokyonight"/>
-    </a>
+
+  <a href="https://github.com/fdsantos94">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fdsantos94&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdsantos94&layout=compact&langs_count=7&theme=tokyonight"/>
+
 </div>
 
 <br>
