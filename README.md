@@ -27,6 +27,18 @@ Esta seção mostra minha atividade e as linguagens predominantes nos meus repos
 
 ---
 
+## 🧩 Soft Skills
+
+* 🗣️ **Comunicação clara** — consigo traduzir termos técnicos para o idioma do negócio (sem PowerPoint de 40 slides)
+* 🤝 **Colaboração** — trabalho bem com times técnicos e não técnicos, porque dado bom nasce de conversa boa
+* 🧠 **Pensamento crítico** — questiono números, regras e premissas antes de sair confiando cegamente
+* 🧩 **Resolução de problemas** — foco na causa raiz, não no curativo rápido
+* 📚 **Aprendizado contínuo** — sempre buscando evoluir processos, código e entendimento do negócio
+* ⏳ **Organização e responsabilidade** — prazos, padrões e documentação levados a sério
+* 🧘 **Calma sob pressão** — erros acontecem, pânico não resolve (debug sim)
+
+---
+
 ## 🛠️ Tecnologias e Ferramentas (Hard Skills)
 
 Abaixo estão as ferramentas que utilizo, com o compromisso de aplicar sempre as boas práticas de mercado (e.g., **SQL em minúsculo**, aliases padronizados, Python PEP8).
