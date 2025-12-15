@@ -1,6 +1,6 @@
 # 📊 Fernando Santana | Analista de Dados & MIS
 
-Bem-vindo(a) ao meu espaço no GitHub! Sou **Analista de Dados**, com foco forte em qualidade de dados, boas práticas, organização e clareza de código. Acredito que dados só geram valor quando são confiáveis, rastreáveis e bem documentados.
+Bem-vindo(a) ao meu espaço no GitHub! Sou Analista de Dados, com foco forte em qualidade de dados, boas práticas, organização e clareza de código. Acredito que dados só geram valor quando são confiáveis, rastreáveis e bem documentados.
 
 ---
 
