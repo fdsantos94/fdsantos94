@@ -13,17 +13,6 @@ Construir soluções de dados simples, bem estruturadas e sustentáveis, facilit
 * Escalabilidade
 * Vida do *eu do futuro* (e do colega que herdar a query às 18h de sexta)
 
----
-
-## 🚀 Estatísticas do meu Desenvolvimento
-
-Esta seção mostra minha atividade e as linguagens predominantes nos meus repositórios.
-
-<div align="center">
-  <a href="https://github.com/fdsantos94">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fdsantos94&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdsantos94&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
 ---
 
@@ -54,15 +43,15 @@ Abaixo estão as ferramentas que utilizo, com o compromisso de aplicar sempre as
 
 ---
 
-## 📂 Organização dos Repositórios
+## 🚀 Estatísticas do meu Desenvolvimento
 
-Para facilitar a navegação e diferenciar o que é "Produto" do que é "Estudo", meus repositórios seguem uma estrutura clara:
+Esta seção mostra minha atividade e as linguagens predominantes nos meus repositórios.
 
-| Categoria | Nomenclatura | Foco Principal | Exemplo |
-| :--- | :--- | :--- | :--- |
-| **Projetos** | `[assunto]-[tecnologia]` | Solução completa para um problema de negócio. | `controle-condominio-python` |
-| **Estudos** | `estudos-[tecnologia]` | Agrupamento de exercícios, scripts soltos e fixação de sintaxe. | `estudos-python` |
-| **Pessoal/Privado** | Nomenclatura própria. | Arquivos pessoais ou projetos em fase de rascunho. | `financas-pessoais` |
+<div align="center">
+  <a href="https://github.com/fdsantos94">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fdsantos94&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdsantos94&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 ---
 
