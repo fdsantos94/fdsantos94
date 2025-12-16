@@ -2,7 +2,7 @@
 
 Bem-vindo(a) ao meu espaço no GitHub! 
 
-Atuo como **Analista de MIS**, sendo responsável por integrar, tratar e otimizar bases de dados para gerar inteligência de negócio. Meu foco não é apenas "rodar a query", mas garantir **performance, clareza e usabilidade** nos dados que entrego.
+Atuo como **Analista de Dados & MIS**, sendo responsável por integrar, tratar e otimizar bases de dados para gerar inteligência de negócio. Meu foco não é apenas "rodar a query", mas garantir **performance, clareza e usabilidade** nos dados que entrego.
 
 Atualmente, estou expandindo minha caixa de ferramentas (sólida em SQL/VBA) com **Python**, visando a automação em larga escala e a transição para **Analytics Engineering**.
 
