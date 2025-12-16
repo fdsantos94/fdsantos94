@@ -35,7 +35,6 @@ Também atuo como mentor técnico na minha equipe, evangelizando boas práticas 
 ## 🛠️ Tecnologias e Ferramentas (Hard Skills)
 
 Abaixo estão as ferramentas que utilizo no dia a dia.
-*Nota: Tenho um compromisso pessoal com a legibilidade (e.g., SQL sempre em minúsculo, aliases alfabéticos sequenciais e Python PEP8).*
 
 <div align="center">
     <img align="center" title="SQL Server" alt="SQL Server" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
