@@ -52,11 +52,10 @@ Abaixo estão as ferramentas que utilizo no dia a dia.
 
 <div align="center">
     <a href="https://github.com/fdsantos94">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fdsantos94&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_bust=202512160915"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdsantos94&layout=compact&langs_count=7&theme=tokyonight&cache_bust=202512160915"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fdsantos94&show_icons=true&theme=tokyonight&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdsantos94&layout=compact&langs_count=7&theme=tokyonight"/>
     </a>
 </div>
-
 ---
 
 ## 📬 Conecte-se Comigo
