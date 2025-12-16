@@ -56,6 +56,7 @@ Abaixo estão as ferramentas que utilizo no dia a dia.
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdsantos94&layout=compact&langs_count=7&theme=tokyonight"/>
     </a>
 </div>
+
 ---
 
 ## 📬 Conecte-se Comigo
