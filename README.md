@@ -38,11 +38,11 @@ Abaixo estão as ferramentas que utilizo no dia a dia.
 *Nota: Tenho um compromisso pessoal com a legibilidade (e.g., SQL sempre em minúsculo, aliases alfabéticos sequenciais e Python PEP8).*
 
 <div align="center">
-    <img align="center" title="Python" alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" title="Postgresql" alt="Postgresql" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-    <img align="center" title="MySQL" alt="MySQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" title="SQL Server" alt="SQL Server" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
     <img align="center" title="VBA" alt="VBA" height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vba_icon_130097.png">
+    <img align="center" title="MySQL" alt="MySQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img align="center" title="Postgresql" alt="Postgresql" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+    <img align="center" title="Python" alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ---
