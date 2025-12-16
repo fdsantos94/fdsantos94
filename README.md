@@ -4,7 +4,7 @@ Bem-vindo(a) ao meu espaço no GitHub!
 
 Atuo como **Analista de Dados & MIS**, sendo responsável por integrar, tratar e otimizar bases de dados para gerar inteligência de negócio. Meu foco não é apenas "rodar a query", mas garantir **performance, clareza e usabilidade** nos dados que entrego.
 
-Atualmente, estou expandindo minha caixa de ferramentas (sólida em SQL/VBA) com **Python**, visando a automação em larga escala e a transição para **Analytics Engineering**.
+Minha fundação é sólida em **SQL e VBA**, mas estou em transição para o universo de **Python e Data Visualization**. Meu objetivo: desenvolver automação em larga escala e Dashboards que sejam **práticos e diretos**, focando no real valor e sem firula.
 
 ---
 
