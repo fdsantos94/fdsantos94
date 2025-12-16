@@ -68,6 +68,5 @@ Sempre que possível, compartilho no LinkedIn reflexões reais sobre dados, ferr
     <a href = "mailto:fdsantos94@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
     <a href="https://instagram.com/fdsantos94/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     
-    <br><br>
-    <img src="https://raw.githubusercontent.com/fdsantos94/fdsantos94/output/github-contribution-grid-snake.svg" alt="Snake animation">
+    <img src="https://raw.githubusercontent.com/fdsantos94/fdsantos94/output/dist/github-contribution-grid-snake.svg" alt="Snake animation">
 </div>
