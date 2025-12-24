@@ -51,7 +51,7 @@ Abaixo estão as ferramentas que utilizo no dia a dia.
 <div align="center">
     <a href="https://github.com/fdsantos94">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fdsantos94&show_icons=true&theme=tokyonight&count_private=true" />
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdsantos94&layout=compact&theme=tokyonight&hide=jupyter%20notebook" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdsantos94&layout=compact&theme=tokyonight&hide_progress=true&v=vba_python_2025" />
     </a>
 </div>
 
