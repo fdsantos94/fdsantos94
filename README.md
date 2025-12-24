@@ -49,10 +49,10 @@ Abaixo estão as ferramentas que utilizo no dia a dia.
 ## 🚀 Estatísticas do Desenvolvimento
 
 <div align="center">
-    <a href="https://github.com/fdsantos94">
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=fdsantos94&show_icons=true&theme=tokyonight" alt="Fernando's Github Stats" />
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdsantos94&layout=compact&theme=tokyonight&hide_progress=true&v=vba_python_2025" alt="Top Languages" />
-    </a>
+  <a href="https://github.com/fdsantos94">
+    <img src="https://github-readme-stats.vercel.app/api?username=fdsantos94&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&cache_seconds=1800" height="180" alt="Stats do Fernando" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdsantos94&layout=compact&theme=tokyonight&hide_progress=true&cache_seconds=1800" height="180" alt="Linguagens Mais Usadas" />
+  </a>
 </div>
 
 ---
