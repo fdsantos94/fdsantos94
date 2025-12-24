@@ -50,8 +50,9 @@ Abaixo estão as ferramentas que utilizo no dia a dia.
 
 <div align="center">
   <a href="https://github.com/fdsantos94">
-    <img src="https://github-readme-stats.vercel.app/api?username=fdsantos94&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&cache_seconds=1800" height="180" alt="Stats do Fernando" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdsantos94&layout=compact&theme=tokyonight&hide_progress=true&cache_seconds=1800" height="180" alt="Linguagens Mais Usadas" />
+    <img src="https://github-readme-stats-eight-lime.vercel.app/api?username=fdsantos94&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" alt="Stats do Fernando" />
+    
+    <img src="https://github-readme-stats-eight-lime.vercel.app/api/top-langs/?username=fdsantos94&layout=compact&theme=tokyonight&hide_progress=true&count_private=true" height="180" alt="Linguagens Mais Usadas" />
   </a>
 </div>
 
