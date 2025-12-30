@@ -46,6 +46,19 @@ Abaixo estão as ferramentas que utilizo no dia a dia.
 
 ---
 
+## 🗂️ Projetos em Destaque
+
+Abaixo, alguns exemplos de como aplico arquitetura de dados e UX para resolver dores reais de negócio.
+
+| Projeto | Descrição & Impacto | Stack |
+| :--- | :--- | :---: |
+| [**🛡️ MIS Telemetry & Audit**](LINK_DO_REPO_TELEMETRIA_AQUI) | **Governança de Dados.** Sistema "Silent Mode" que audita o engajamento de usuários em relatórios Excel. Elimina "planilhas fantasmas" e monitora acessos indevidos via dump automático para SQL Server. | `VBA` `SQL` `ADO` |
+| [**🎨 UX Support Hub**](LINK_DO_REPO_SUPORTE_AQUI) | **User Experience.** Interface moderna de Help Desk com navegação fluida e integração nativa com Outlook. Reduz a fricção entre usuário e suporte técnico através de formulários interativos. | `VBA` `Forms` `Outlook` |
+
+---
+
+---
+
 ## 🚀 Estatísticas do Desenvolvimento
 
 <div align="center">
