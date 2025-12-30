@@ -52,7 +52,7 @@ Abaixo, alguns exemplos de como aplico arquitetura de dados e UX para resolver d
 
 | Projeto | Descrição & Impacto | Stack |
 | :--- | :--- | :---: |
-| [**🛡️ Glossário de Indicadores**](https://github.com/fdsantos94/glossario) | **Governança de Dados.** Este projeto soluciona um problema comum em áreas de dados e MIS: a descentralização do conhecimento. O Glossário funciona como uma "fonte da verdade", permitindo que qualquer analista ou gestor consulte rapidamente como um indicador é calculado, garantindo consistência nos relatórios. | `VBA` `SQL` `ADO` |
+| [**🛡️ Glossário de Indicadores**](https://github.com/fdsantos94/glossario) | **Governança de Dados.** Este projeto soluciona um problema comum em áreas de dados e MIS: a descentralização do conhecimento. O Glossário funciona como uma "fonte da verdade", permitindo que qualquer analista ou gestor consulte rapidamente como um indicador é calculado, garantindo consistência nos relatórios. | `VBA` `Forms` |
 | [**🎨 UX Support Hub**](https://github.com/fdsantos94/suporte-ao-usuario) | **User Experience.** Este projeto implementa uma interface moderna de Help Desk dentro do Excel. O objetivo é reduzir a fricção entre o usuário final e a equipe de suporte/desenvolvimento. Diferente dos formulários padrão do Windows (cinzas e estáticos), esta solução utiliza técnicas avançadas de manipulação de eventos de mouse (MouseMove) para criar botões reativos e uma experiência de navegação fluida. | `VBA` `Forms` `Outlook` |
 
 ---
