@@ -54,7 +54,7 @@ Abaixo, alguns exemplos de como aplico arquitetura de dados e UX para resolver d
 | :--- | :--- | :---: |
 | [**🛡️ Glossário de Indicadores**](https://github.com/fdsantos94/glossario) | **Governança de Dados.** Este projeto soluciona um problema comum em áreas de dados e MIS: a descentralização do conhecimento. O Glossário funciona como uma "fonte da verdade", permitindo que qualquer analista ou gestor consulte rapidamente como um indicador é calculado, garantindo consistência nos relatórios. | `VBA` `Forms` `UX Design` |
 | [**🎨 Sistema de Auditoria**](https://github.com/fdsantos94/sa-audit-system) | **UI/UX & Workflow.** Transforma o Excel em uma aplicação completa de auditoria. Substitui os formulários cinzas nativos por uma Interface de Alta Fidelidade com menus responsivos e dashboard de produtividade em tempo real, reduzindo o erro operacional e melhorando a experiência do auditor. | `VBA` `Forms` `UX Design` |
-| [**🎨 Controle de logs**](https://github.com/fdsantos94/log-sheets-relatorios) | **Segurança & Telemetria.** Segurança & Telemetria. Sistema robusto de monitoramento integrado ao SQL Server. Rastreia a navegação do usuário (sheet a sheet) para gerar métricas de adoção (quem usa e quanto usa) e alerta sobre tentativas de acesso não autorizado a áreas restritas. | `VBA` `SQL Server` |
+| [**🎨 Controle de logs**](https://github.com/fdsantos94/log-sheets-relatorios) | **Segurança & Telemetria.** Sistema robusto de monitoramento integrado ao SQL Server. Rastreia a navegação do usuário (sheet a sheet) para gerar métricas de adoção (quem usa e quanto usa) e alerta sobre tentativas de acesso não autorizado a áreas restritas. | `VBA` `SQL Server` |
 ---
 
 ---
