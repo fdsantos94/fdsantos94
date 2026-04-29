@@ -57,8 +57,6 @@ Abaixo, alguns exemplos de como aplico arquitetura de dados e UX para resolver d
 | [**🔐 Controle de logs**](https://github.com/fdsantos94/log-sheets-relatorios) | **Segurança & Telemetria.** Sistema robusto de monitoramento integrado ao SQL Server. Rastreia a navegação do usuário (sheet a sheet) para gerar métricas de adoção (quem usa e quanto usa) e alerta sobre tentativas de acesso não autorizado a áreas restritas. | `VBA` `SQL Server` |
 ---
 
----
-
 ## 🚀 Estatísticas do Desenvolvimento
 
 <div align="center">
